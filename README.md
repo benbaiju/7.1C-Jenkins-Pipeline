@@ -1,2 +1,2 @@
 # 7.1C-Jenkins-Pipeline
-Testing automatic trigger
+Testing automatic trigger for recording
